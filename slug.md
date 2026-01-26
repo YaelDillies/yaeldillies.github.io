@@ -1,6 +1,6 @@
 ---
 layout: page
-title: SLUG (Stockholm Lean User Group
+title: Stockholm Lean User Group (SLUG)
 ---
 
 ### What
