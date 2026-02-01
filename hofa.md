@@ -46,34 +46,34 @@ Here are a few suggestions:
 
 ### When
 
-| Week | Date  | Time UTC+2 | Title                                                             |
-|------|-------|------------|-------------------------------------------------------------------|
-| v 7  | 10/02 | 11-12      | Lecture 1 - The need for nilsequences + Heisenberg group          |
-| v 7  | 12/02 | 14-16      | Exercise session 1                                                |
-| v 8  | 17/02 | 11-12      | Lecture 2 - Gowers norms and the inverse problem + Filtration     |
-| v 8  | 19/02 | 14-16      | Exercise session 2                                                |
-| v 9  | 24/02 | 11-12      | Lecture 3 - Lattice automrophic functions + Inverse theorem       |
-| v 9  | 26/02 | 14-16      | Exercise session 3                                                |
-| v 10 | 03/03 | 11-12      | Lecture 4 - Host-Kra cube groups                                  |
-| v 10 | 05/03 | 14-16      | Exercise session 4                                                |
-| v 11 | 10/03 | 11-12      | Lecture 5 - Polynomial sequences + Taylor Expansions              |
-| v 11 | 12/03 | 14-16      | Exercise session 5                                                |
-| v 12 | 17/03 | 11-12      | Lecture 6 - Vertical Frequencies                                  |
-| v 12 | 19/03 | 14-16      | Exercise session 6                                                |
-| v 13 | 24/03 | 11-12      | Lecture 7 - Gowers, dual norms on cyclic groups                   |
-| v 13 | 26/03 | 14-16      | Exercise session 7                                                |
-| v 14 | 31/03 | 11-12      | Lecture 8 - Gowers, dual norms on $[N]$ + nilsequence obstruction |
-| v 14 | 02/04 | 14-16      | Exercise session 8                                                |
-| v 15 | 07/04 | 11-12      | Lecture 9 - Szemerédi's theorem                                   |
-| v 15 | 09/04 | 14-16      | Exercise session 9                                                |
-| v 16 | 14/04 | 11-12      | Presentation 1 - TBD                                              |
-| v 16 | 16/04 | 14-16      | Exercise session 10                                               |
-| v 17 | 21/04 | 11-12      | Presentation 2 - TBD                                              |
-| v 17 | 23/04 | 14-16      | Exercise session 11                                               |
-| v 18 | 28/04 | 11-12      | Presentation 3 - TBD                                              |
-| v 18 | 30/04 | 14-16      | Exercise session 12                                               |
-| v 19 | 05/05 | 11-12      | Presentation 4 - TBD                                              |
-| v 19 | 07/05 | 14-16      | Exercise session 13                                               |
-| v 20 | 12/05 | 11-12      | Presentation 5 - TBD                                              |
-| v 20 | 14/05 | 14-16      | Exercise session 14                                               |
-| v 21 | 19/05 | 11-12      | Presentation 6 - TBD                                              |
+| Week | Time UTC+2  | Title                                                             |
+|------|-------------|-------------------------------------------------------------------|
+| v 7  | 10/02 11-12 | Lec 1 - Sec 1.1-1.2: Nilsequences, Heisenberg group               |
+| v 7  | 12/02 14-16 | Exercise session 1                                                |
+| v 8  | 17/02 11-12 | Lec 2 - Sec 1.3+2.1: Gowers norms, filtration                     |
+| v 8  | 19/02 14-16 | Exercise session 2                                                |
+| v 9  | 24/02 11-12 | Lec 3 - Sec 2.2+2.4-2.5: Lattice automorphic functions, inverse theorem, linear nilsequences |
+| v 9  | 26/02 14-16 | Exercise session 3                                                |
+| v 10 | 03/03 11-12 | Lec 4 - Sec 3.1: Host-Kra cube groups                             |
+| v 10 | 05/03 14-16 | Exercise session 4                                                |
+| v 11 | 10/03 11-12 | Lec 5 - Sec 3.2-3.3: Polynomial sequences, Taylor expansions      |
+| v 11 | 12/03 14-16 | Exercise session 5                                                |
+| v 12 | 17/03 11-12 | Lec 6 - Sec 4.1-4.2: Differentiating nilsequences                 |
+| v 12 | 19/03 14-16 | Exercise session 6                                                |
+| v 13 | 24/03 11-12 | Lec 7 - Sec 5.1: Gowers norm on cyclic groups                     |
+| v 13 | 26/03 14-16 | Exercise session 7                                                |
+| v 14 | 31/03 11-12 | Lec 8 - Sec 5.2-5.3 Gowers norm on $[N]$, nilsequence obstruction |
+| v 14 | 02/04 14-16 | Exercise session 8                                                |
+| v 15 | 07/04 11-12 | Lec 9 - No ref yet: Szemerédi's theorem                           |
+| v 15 | 09/04 14-16 | Exercise session 9                                                |
+| v 16 | 14/04 11-12 | Presentation 1 - TBD                                              |
+| v 16 | 16/04 14-16 | Exercise session 10                                               |
+| v 17 | 21/04 11-12 | Presentation 2 - TBD                                              |
+| v 17 | 23/04 14-16 | Exercise session 11                                               |
+| v 18 | 28/04 11-12 | Presentation 3 - TBD                                              |
+| v 18 | 30/04 14-16 | Exercise session 12                                               |
+| v 19 | 05/05 11-12 | Presentation 4 - TBD                                              |
+| v 19 | 07/05 14-16 | Exercise session 13                                               |
+| v 20 | 12/05 11-12 | Presentation 5 - TBD                                              |
+| v 20 | 14/05 14-16 | Exercise session 14                                               |
+| v 21 | 19/05 11-12 | Presentation 6 - TBD                                              |
