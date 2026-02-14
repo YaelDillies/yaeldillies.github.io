@@ -6,7 +6,6 @@ title: Stockholm Lean User Group (SLUG)
 ### What
 
 A reading group run by [Yaël Dillies](https://www.su.se/english/profiles/yadi8568-1.745057)
-and [Sina Hazratpour](https://sinhp.github.io/),
 where we discuss different aspects of interactive theorem proving, programming,
 and metaprogramming in Lean.
 
