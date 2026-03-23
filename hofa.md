@@ -48,27 +48,27 @@ Here are a few suggestions:
 
 | Week | Time UTC+2  | Title                                                             |
 |------|-------------|-------------------------------------------------------------------|
-| v 11 | 10/03 11-12 | Lec 1 - Sec 1.1-1.2: Nilsequences, Heisenberg group               |
-| v 11 | 12/03 14-16 | Exercise session 1                                                |
-| v 12 | 17/03 11-12 | Lec 2 - Sec 1.3+2.1: Gowers norms, filtration                     |
-| v 12 | 19/03 14-16 | Exercise session 2                                                |
-| v 13 | 24/03 11-12 | Lec 3 - Sec 2.2+2.4-2.5: Lattice automorphic functions, inverse theorem, linear nilsequences |
-| v 13 | 26/03 14-16 | Exercise session 3                                                |
-| v 14 | 31/03 11-12 | Lec 4 - Sec 3.1: Host-Kra cube groups                             |
-| v 14 | 02/04 14-16 | Exercise session 4                                                |
-| v 15 | 07/04 11-12 | Lec 5 - Sec 3.2-3.3: Polynomial sequences, Taylor expansions      |
-| v 15 | 09/04 14-16 | Exercise session 5                                                |
-| v 16 | 14/04 11-12 | Lec 6 - Sec 4.1-4.2: Differentiating nilsequences                 |
-| v 16 | 16/04 14-16 | Exercise session 6                                                |
-| v 17 | 21/04 11-12 | Lec 7 - Sec 5.1: Gowers norm on cyclic groups                     |
-| v 17 | 23/04 14-16 | Exercise session 7                                                |
-| v 18 | 28/04 11-12 | Lec 8 - Sec 5.2-5.3 Gowers norm on $[N]$, nilsequence obstruction |
-| v 18 | 30/04 14-16 | Exercise session 8                                                |
-| v 19 | 05/05 11-12 | Lec 9 - No ref yet: Szemerédi's theorem                           |
-| v 19 | 07/05 14-16 | Exercise session 9                                                |
-| v 20 | 12/05 11-12 | Presentation 1 - TBD                                              |
-| v 21 | 19/05 11-12 | Presentation 2 - TBD                                              |
-| v 22 | 26/05 11-12 | Presentation 3 - TBD                                              |
-| v 23 | 02/06 11-12 | Presentation 4 - TBD                                              |
-| v 24 | 09/06 11-12 | Presentation 5 - TBD                                              |
-| v 25 | 16/06 11-12 | Presentation 6 - TBD                                              |
+| v 36 | 09/09 11-12 | Lec 1 - Sec 1.1-1.2: Nilsequences, Heisenberg group               |
+| v 36 | 11/09 14-16 | Exercise session 1                                                |
+| v 37 | 16/09 11-12 | Lec 2 - Sec 1.3+2.1: Gowers norms, filtration                     |
+| v 37 | 18/09 14-16 | Exercise session 2                                                |
+| v 38 | 23/09 11-12 | Lec 3 - Sec 2.2+2.4-2.5: Lattice automorphic functions, inverse theorem, linear nilsequences |
+| v 38 | 25/09 14-16 | Exercise session 3                                                |
+| v 39 | 30/09 11-12 | Lec 4 - Sec 3.1: Host-Kra cube groups                             |
+| v 39 | 02/10 14-16 | Exercise session 4                                                |
+| v 40 | 07/10 11-12 | Lec 5 - Sec 3.2-3.3: Polynomial sequences, Taylor expansions      |
+| v 40 | 09/10 14-16 | Exercise session 5                                                |
+| v 41 | 14/10 11-12 | Lec 6 - Sec 4.1-4.2: Differentiating nilsequences                 |
+| v 41 | 16/10 14-16 | Exercise session 6                                                |
+| v 42 | 21/10 11-12 | Lec 7 - Sec 5.1: Gowers norm on cyclic groups                     |
+| v 42 | 23/10 14-16 | Exercise session 7                                                |
+| v 43 | 28/10 11-12 | Lec 8 - Sec 5.2-5.3 Gowers norm on $[N]$, nilsequence obstruction |
+| v 43 | 30/10 14-16 | Exercise session 8                                                |
+| v 44 | 04/11 11-12 | Lec 9 - No ref yet: Szemerédi's theorem                           |
+| v 44 | 06/11 14-16 | Exercise session 9                                                |
+| v 45 | 11/11 11-12 | Presentation 1 - TBD                                              |
+| v 46 | 18/11 11-12 | Presentation 2 - TBD                                              |
+| v 47 | 25/11 11-12 | Presentation 3 - TBD                                              |
+| v 48 | 02/12 11-12 | Presentation 4 - TBD                                              |
+| v 49 | 09/12 11-12 | Presentation 5 - TBD                                              |
+| v 50 | 16/12 11-12 | Presentation 6 - TBD                                              |
