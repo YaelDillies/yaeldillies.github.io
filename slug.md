@@ -23,9 +23,17 @@ Mittag-Leffler room, Mathematics Department, Albano House 1, Floor 3, Stockholm 
 See the location on
 [Open Street Map](https://www.openstreetmap.org/?mlat=59.35472&mlon=18.05553#map=18/59.354720/18.055530).
 
-### When
+### Usual Format:
 
-14:00-17:00 on the following days
+14:00-17:00 on the following days, and we are flexible:
+
+14-15: The first hour is usually open floor, help to beginners, installation questions, going through the "Natural Number Game".
+15-16: The second hour is usually reserved for slightly more advanced questions and theorem discussion at the masters or PhD level.
+16-17: The final hour is usually reserved for matlib and formalization projects and so on.
+
+The first Tuesday of the month might be reserved for a paper discussion and seminar. 
+
+### Weekly Schedule
 
 | Week | Date       | Notes                                      |
 |------|------------|--------------------------------------------|
