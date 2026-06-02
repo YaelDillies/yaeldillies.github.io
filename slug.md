@@ -31,7 +31,9 @@ See the location on
 |------|------------|--------------------------------------------|
 | v 22 | 2026-05-26 |                                            |
 | v 23 | 2026-06-02 |                                            |
-| v 24 | 2026-06-09 |                                            |
+| v 24 | 2026-06-10 | Exceptionally on Wednesday!                |
 | v 25 | 2026-06-16 |                                            |
+| v 25 | 2026-06-23 |                                            |
+| v 25 | 2026-06-30 | Last session of the year!                  |
 
 __BYOLoL (Bring Your Own Lean on a Laptop)__
