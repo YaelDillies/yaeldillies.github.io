@@ -39,36 +39,38 @@ Here are a few suggestions:
 Online lectures/presentations: Zoom. Details to be confirmed.
 
 In-person meetings: Mathematics Department, Albano House 1, Floor 3, Stockholm University.
-Room to be confirmed.
+See the schedule for the room.
 
 See the location on
 [Open Street Map](https://www.openstreetmap.org/?mlat=59.35472&mlon=18.05553#map=18/59.354720/18.055530).
 
 ### When
 
-| Week | Time UTC+2  | Title                                                             |
-|------|-------------|-------------------------------------------------------------------|
-| v 36 | 09/09 11-12 | Lec 1 - Sec 1.1-1.2: Nilsequences, Heisenberg group               |
-| v 36 | 11/09 14-16 | Exercise session 1                                                |
-| v 37 | 16/09 11-12 | Lec 2 - Sec 1.3+2.1: Gowers norms, filtration                     |
-| v 37 | 18/09 14-16 | Exercise session 2                                                |
-| v 38 | 23/09 11-12 | Lec 3 - Sec 2.2+2.4-2.5: Lattice automorphic functions, inverse theorem, linear nilsequences |
-| v 38 | 25/09 14-16 | Exercise session 3                                                |
-| v 39 | 30/09 11-12 | Lec 4 - Sec 3.1: Host-Kra cube groups                             |
-| v 39 | 02/10 14-16 | Exercise session 4                                                |
-| v 40 | 07/10 11-12 | Lec 5 - Sec 3.2-3.3: Polynomial sequences, Taylor expansions      |
-| v 40 | 09/10 14-16 | Exercise session 5                                                |
-| v 41 | 14/10 11-12 | Lec 6 - Sec 4.1-4.2: Differentiating nilsequences                 |
-| v 41 | 16/10 14-16 | Exercise session 6                                                |
-| v 42 | 21/10 11-12 | Lec 7 - Sec 5.1: Gowers norm on cyclic groups                     |
-| v 42 | 23/10 14-16 | Exercise session 7                                                |
-| v 43 | 28/10 11-12 | Lec 8 - Sec 5.2-5.3 Gowers norm on $[N]$, nilsequence obstruction |
-| v 43 | 30/10 14-16 | Exercise session 8                                                |
-| v 44 | 04/11 11-12 | Lec 9 - No ref yet: Szemerédi's theorem                           |
-| v 44 | 06/11 14-16 | Exercise session 9                                                |
-| v 45 | 11/11 11-12 | Presentation 1 - TBD                                              |
-| v 46 | 18/11 11-12 | Presentation 2 - TBD                                              |
-| v 47 | 25/11 11-12 | Presentation 3 - TBD                                              |
-| v 48 | 02/12 11-12 | Presentation 4 - TBD                                              |
-| v 49 | 09/12 11-12 | Presentation 5 - TBD                                              |
-| v 50 | 16/12 11-12 | Presentation 6 - TBD                                              |
+The schedule beyond the first meeting is provisional,
+and will be decided upon during the first meeting.
+
+| Week | Time UTC+2  | Room   | Title                                                             |
+|------|-------------| ------ |-------------------------------------------------------------------|
+| v 38 | 17/09 11-12 | Cramér | First meeting                                                     |
+| v 39 | 23/09 11-12 | TBD    | Lec 1 - Sec 1.1-1.2: Nilsequences, Heisenberg group               |
+| v 39 | 25/09 14-16 | TBD    | Exercise session 1                                                |
+| v 40 | 30/09 11-12 | TBD    | Lec 2 - Sec 1.3+2.1: Gowers norms, filtration                     |
+| v 40 | 02/10 14-16 | TBD    | Exercise session 2                                                |
+| v 41 | 07/10 11-12 | TBD    | Lec 3 - Sec 2.2+2.4-2.5: Lattice automorphic functions, inverse theorem, linear nilsequences |
+| v 41 | 09/10 14-16 | TBD    | Exercise session 3                                                |
+| v 42 | 14/10 11-12 | TBD    | Lec 4 - Sec 3.1: Host-Kra cube groups                             |
+| v 42 | 16/10 14-16 | TBD    | Exercise session 4                                                |
+| v 43 | 21/10 11-12 | TBD    | Lec 5 - Sec 3.2-3.3: Polynomial sequences, Taylor expansions      |
+| v 43 | 23/10 14-16 | TBD    | Exercise session 5                                                |
+| v 44 | 28/10 11-12 | TBD    | Lec 6 - Sec 4.1-4.2: Differentiating nilsequences                 |
+| v 44 | 30/10 14-16 | TBD    | Exercise session 6                                                |
+| v 45 | 04/11 11-12 | TBD    | Lec 7 - Sec 5.1: Gowers norm on cyclic groups                     |
+| v 45 | 06/11 14-16 | TBD    | Exercise session 7                                                |
+| v 46 | 11/11 11-12 | TBD    | Lec 8 - Sec 5.2-5.3 Gowers norm on $[N]$, nilsequence obstruction |
+| v 46 | 13/11 14-16 | TBD    | Exercise session 8                                                |
+| v 47 | 18/11 11-12 | TBD    | Lec 9 - No ref yet: Szemerédi's theorem                           |
+| v 47 | 20/11 14-16 | TBD    | Exercise session 9                                                |
+| v 48 | 25/11 10-12 | TBD    | Presentation 1 - TBD                                              |
+| v 49 | 02/12 10-12 | TBD    | Presentation 2 - TBD                                              |
+| v 50 | 09/12 10-12 | TBD    | Presentation 3 - TBD                                              |
+| v 51 | 16/12 10-12 | TBD    | Presentation 4 - TBD                                              |
