@@ -20,16 +20,6 @@ After 9 student-run lectures based on Ben Green's nilsequences notes
 leading up to Szemerédi's theorem,
 there will be student-run presentations by groups of two.
 
-### Where
-
-Online lectures/presentations: Zoom. Details to be confirmed.
-
-In-person meetings: Mathematics Department, Albano House 1, Floor 3, Stockholm University.
-Room to be confirmed.
-
-See the location on
-[Open Street Map](https://www.openstreetmap.org/?mlat=59.35472&mlon=18.05553#map=18/59.354720/18.055530).
-
 ### Examination
 
 PhD students at SU or KTH can take this course for 7.5 ETCS credits.
@@ -43,6 +33,16 @@ Here are a few suggestions:
 * [*Improved Bounds for Szemerédi's Theorem*, J. Leng, A. Sah, M. Sawhney](https://arxiv.org/abs/2402.17995)
 * [*A point of view on Gowers uniformity norms*, B. Host, B. Kra](https://sites.math.northwestern.edu/~kra/papers/gowersnorms.pdf)
 * [*An inverse theorem for the Gowers $U^{s+1}[N]$-norm*, B. Green, T. Tao, T. Ziegler](https://arxiv.org/abs/1009.3998)
+
+### Where
+
+Online lectures/presentations: Zoom. Details to be confirmed.
+
+In-person meetings: Mathematics Department, Albano House 1, Floor 3, Stockholm University.
+Room to be confirmed.
+
+See the location on
+[Open Street Map](https://www.openstreetmap.org/?mlat=59.35472&mlon=18.05553#map=18/59.354720/18.055530).
 
 ### When
 
