@@ -32,7 +32,7 @@ See the location on
 
 ### Examination
 
-Master and PhD students at SU or KTH can take this course for 7.5 ETCS credits.
+PhD students at SU or KTH can take this course for 7.5 ETCS credits.
 
 The examiner is Olof Sisask and to pass the course one needs to give a 2x45-min presentation
 in pairs on an important paper in higher order Fourier or an application to additive combinatorics,
