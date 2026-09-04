@@ -51,7 +51,7 @@ and will be decided upon during the first meeting.
 
 | Week | Time UTC+2  | Room   | Title                                                             |
 |------|-------------| ------ |-------------------------------------------------------------------|
-| v 38 | 17/09 11-12 | Cramér | First meeting                                                     |
+| v 38 | 17/09 11-12 | Kovalevski | First meeting                                                 |
 | v 39 | 23/09 11-12 | TBD    | Lec 1 - Sec 1.1-1.2: Nilsequences, Heisenberg group               |
 | v 39 | 25/09 14-16 | TBD    | Exercise session 1                                                |
 | v 40 | 30/09 11-12 | TBD    | Lec 2 - Sec 1.3+2.1: Gowers norms, filtration                     |
