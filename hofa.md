@@ -9,7 +9,7 @@ A reading course run by [Yaël Dillies](https://www.su.se/english/profiles/yadi8
 [Zhichen Zhou](https://www.su.se/english/profiles/z/zhzh3913) and
 [Othmane Rih](https://www.su.se/english/profiles/o/otri2581)
 where we learn together about the various aspects of higher order Fourier analysis,
-building up to a proof of Szemerédi's theorem for $k = 4$.
+building up to a proof of Szemerédi's theorem.
 
 Everyone is welcome to join!
 
@@ -68,7 +68,7 @@ and will be decided upon during the first meeting.
 | v 45 | 06/11 14-16 | TBD    | Exercise session 7                                                |
 | v 46 | 11/11 11-12 | TBD    | Lec 8 - Sec 5.2-5.3 Gowers norm on $[N]$, nilsequence obstruction |
 | v 46 | 13/11 14-16 | TBD    | Exercise session 8                                                |
-| v 47 | 18/11 11-12 | TBD    | Lec 9 - No ref yet: Szemerédi's theorem                           |
+| v 47 | 18/11 11-12 | TBD    | Lec 9 - Sec 6.1-6.5: Szemerédi's theorem                           |
 | v 47 | 20/11 14-16 | TBD    | Exercise session 9                                                |
 | v 48 | 25/11 10-12 | TBD    | Presentation 1 - TBD                                              |
 | v 49 | 02/12 10-12 | TBD    | Presentation 2 - TBD                                              |
