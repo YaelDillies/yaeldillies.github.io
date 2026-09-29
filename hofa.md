@@ -38,7 +38,8 @@ Here are a few suggestions:
 
 ### Where
 
-Online lectures/presentations: Zoom. Details to be confirmed.
+Online lectures/exercise sessions/presentations:
+[Zoom](https://stockholmuniversity.zoom.us/j/3274884859?pwd=v2wTEbSvs1pp6NqUuhXh0mkus6o1Um.1).
 
 In-person meetings: Mathematics Department, Albano House 1, Floor 3, Stockholm University.
 See the schedule for the room.
