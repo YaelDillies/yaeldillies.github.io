@@ -33,6 +33,8 @@ Here are a few suggestions:
 * [*Improved Bounds for Szemerédi's Theorem*, J. Leng, A. Sah, M. Sawhney](https://arxiv.org/abs/2402.17995)
 * [*A point of view on Gowers uniformity norms*, B. Host, B. Kra](https://sites.math.northwestern.edu/~kra/papers/gowersnorms.pdf)
 * [*An inverse theorem for the Gowers $U^{s+1}[N]$-norm*, B. Green, T. Tao, T. Ziegler](https://arxiv.org/abs/1009.3998)
+* [*Another proof of the $U^4(\mathbb F_p^n)$-inverse theorem*, S. Peluse](https://arxiv.org/abs/2609.15788)
+* [*A quasipolynomial inverse theorem for the $U^k(\mathbb F_p^n)$ norm in the high characteristic*, L. Milićević](https://arxiv.org/pdf/2609.30410.)
 
 ### Where
 
